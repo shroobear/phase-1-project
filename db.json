@@ -1,0 +1,54 @@
+{
+    "Cookies" : [
+        {
+            "Flavor" : "Cookies and Cream Milkshake",
+            "Description" : "A chilly, layered cookies & cream landslide from the cookie to the frosting to the decorative mini cookie on top.",
+            "Rating" : "7"
+        },
+        {
+            "Flavor" : "Strawberry Cheesecake",
+            "Description" : "A luscious three-layer treat including a chilled graham cracker cookie, vanilla cream cheese frosting, and house-made strawberry jam.",
+            "Rating" : "5"
+        },
+        {
+            "Flavor" : "Cinnamon Roll",
+            "Description" : "Just like grandma makes—a vanilla sugar cookie topped with cinnamon roll filling.",
+            "Rating" : "9"
+        },
+        {
+            "Flavor" : "White Chip Macadamia Nut",
+            "Description" : "The classic cookie filled with layers of creamy white drops and buttery macadamia nuts.",
+            "Rating" : "10"
+        },
+        {
+            "Flavor" : "Chocolate Crumb (ft. OREO)",
+            "Description" : "Rich Oreo-filled chocolate cookies topped with smooth vanilla cream cheese frosting and a sprinkle of Oreo crumbs.",
+            "Rating" : "8.5"
+        },
+        {
+            "Flavor" : "Maple Bacon",
+            "Description" : "A fluffy buttermilk cookie swirled with thick maple frosting, a sprinkle of real crispy bacon bits, and a drizzle of maple syrup.",
+            "Rating" : "9.5"
+        },
+        {
+            "Flavor" : "Mint Chip Ice Cream",
+            "Description" : "A chilled sugar cookie with mini semi-sweet chips, a refreshing mint mousse, and a dollop of whipped cream.",
+            "Rating" : "6"
+        },
+        {
+            "Flavor" : "Cookie Dough",
+            "Description" : "A brown sugar cookie topped with cookie dough buttercream and chunks of delicious cookie dough pieces.",
+            "Rating" : "9"
+        },
+        {
+            "Flavor" : "Blueberry Crumb Cake",
+            "Description" : "A warm lemony graham cookie with pops of blueberries and a tangy lemon drizzle.",
+            "Rating" : "8"
+        },
+        {
+            "Flavor" : "Chocolate Covered Strawberry",
+            "Description" : "A chocolate cookies & cream cookie topped with fresh strawberry cream cheese frosting and a drizzle of semi-sweet chocolate.",
+            "Rating" : "6.5"
+        }
+    ]
+}
