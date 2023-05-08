@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="index.js"></script>
+    <script src="./index.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
     <title>Crumbl Cookie Tracker</title>
 </head>
+
 <body>
     <h2>Welcome to the Crumbl Cookie Tracker! Please select your ratings below:</h2>
     <div id="cookie-container">
@@ -22,7 +25,24 @@
 
         <label for="cookie-description">Description:</label>
         <input type="text" id="cookie-description" name="cookie-description">
+
+        <label for="cookie-rating">Rating:</label>
+
+        <select name="rating" id="cookie-rating">
+            <option value="">--Please Select a Rating--</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
     </form>
-    
+
 </body>
+
 </html>
